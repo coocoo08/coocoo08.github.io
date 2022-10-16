@@ -2,11 +2,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo:
+title: coo
+logo: "assets/images/logo.png"
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
+email: futurely08@naver.com
 phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -36,19 +36,19 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 한글!! <br> Git Blog <br> Start!!
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/hyunmin.kim.92317/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/nimnoey_h/" }
+  - { icon: "ti-github", link: "https://github.com/coocoo08" }
+  - { icon: "ti-server", link: "https://khm818.i234.me:8001/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: git 공부!!java 공부!!
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -300,4 +300,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: futurely08@naver.com

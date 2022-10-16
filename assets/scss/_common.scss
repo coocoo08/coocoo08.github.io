@@ -71,7 +71,8 @@ a:hover {
 
   &-title {
     margin-bottom: 80px;
-    font-family: $secondary-font;
+    // font-family: $secondary-font;
+    font-family: Jalnan;
   }
 }
 
@@ -183,11 +184,15 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: $secondary-font !important;
+  // font-family: $secondary-font !important;
+  font-family: Jalnan;
+  font-weight: bold;
 }
 
 .font-tertiary {
-  font-family: $secondary-font !important;
+  // font-family: $secondary-font !important;
+  font-family: Jalnan;
+  font-weight: bold;
 }
 
 .shadow {
