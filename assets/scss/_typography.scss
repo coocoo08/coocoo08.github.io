@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: Jalnan;
-  src: url(../plugins/slick/fonts/Jalnan.ttf) format('truetype');
+  src: local(Jalnan), url(/assets/plugins/slick/fonts/Jalnan.ttf) format('truetype');
   font-weight: 400;
   font-style: normal
 }
