@@ -89,7 +89,7 @@ team:
 skills-title: Skills
 skills:
   - { name: JAVA, color: "#fdb157", value: "90%" }
-  - { name: HTML,CSS , color: "#9473e6", value: "60%" }
+  - { name: "HTML, CSS" , color: "#9473e6", value: "60%" }
   - { name: ORACLE, color: "#bdecf6", value: "80%" }
   - { name: TOOLS, color: "#ffbcaa", value: "70%" }
 
