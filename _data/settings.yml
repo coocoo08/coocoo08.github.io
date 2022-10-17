@@ -189,59 +189,55 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Scenery", type: "Scenery" }
+  - { title: "Character", type: "Character" }
+  - { title: "Animal", type: "Animal" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/picture_1.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/picture_2.jpg"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/picture_3.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-6.png"
+  - image: "assets/images/portfolio/picture_4.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-8.png"
+  - image: "assets/images/portfolio/picture_6.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "Character"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/picture_5.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/picture_7.jpg"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/picture_8.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "Scenery"
 
-  - image: "assets/images/portfolio/item-7.png"
+  - image: "assets/images/portfolio/picture_9.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "Animal"
 
 #-------------------------------
 # Testimonials Section
